@@ -1,210 +1,212 @@
-# awesome-seo
+# Impresionante-SEO
 
-[中文/Chinese](./README_CN.md)
+[中文/Chino](./README_CN.md)
 
-The checklist has been being sorted out since I systematically studied Google SEO in 2019.
-The checklist would be updated from time to time. 
-Meanwhile, welcome to check in PRs, and share the great links about SEO.
+Esta lista de verificación se ha ido elaborando desde que estudié sistemáticamente SEO de Google en 2019.
+La lista de verificación se actualizará de vez en cuando.
+Mientras tanto, bienvenidos a revisar los PR y compartir enlaces excelentes sobre SEO.
 
-There are differences between Baidu SEO and Google SEO. If you have learned the Google SEO, you would understand how to learn Baidu SEO.
+Existen diferencias entre el SEO de Baidu y el SEO de Google. Si has aprendido SEO de Google, entenderás cómo aprender SEO de Baidu.
 
 <details>
-  <summary>SEO, Why Do You Need It?</summary>
+  <summary>SEO, ¿Por qué lo necesitas?</summary>
 
-On the Internet, website traffic can be turned into money. If you have mastered certain SEO techniques, you will have the advantages as following:  
-  - Increase website traffic, then monetize traffic, and build your passive income.
-  - If you have individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
-  - SEO industry covers a wide range of fields. You can study some new technologies in researching SEO process.
+En Internet, el tráfico del sitio web se puede convertir en dinero. Si dominas ciertas técnicas de SEO, tendrás las siguientes ventajas:
+  - Aumentar el tráfico del sitio web, luego monetizar el tráfico y construir tu ingreso pasivo.
+  - Si tienes un producto individual y necesitas comercializarlo y promocionarlo, el SEO puede ayudarte a obtener tráfico gratuito y en constante crecimiento.
+  - La industria del SEO abarca una amplia gama de campos. Puedes estudiar nuevas tecnologías en el proceso de investigación de SEO.
 </details>
 
 <details>
-  <summary>My SEO Experience</summary>
+  <summary>Mi experiencia en SEO</summary>
 
   ![](https://img.bmpi.dev/5494437c-08e0-0d08-5f91-6bdb4fcdece6.png)
 
-This is the traffic site I made. I earned almost $1500 US in advertising revenue.
-For SEO masters, maybe those amount of website traffic is too ordinary. However, for personal developer, these skills are worthy for long-term investment.
+Este es el sitio de tráfico que creé. Gané casi $1500 USD en ingresos por publicidad.
+Para los maestros de SEO, quizás esa cantidad de tráfico web sea demasiado común. Sin embargo, para un desarrollador personal, estas habilidades valen la pena invertir a largo plazo.
 </details>
 
 <details>
-  <summary>Telegram/WeChat Group</summary>
+  <summary>Grupo de Telegram/WeChat</summary>
 
-Around the world, some teams and individuals are doing researches in SEO.
-If interested in SEO or traffic acquisition, you can join my telegram group [web_cpc](https://t.me/web_cpc).
-Of course, you can also add my WeChat account, so that I will add you into WeChat group.
+En todo el mundo, algunos equipos e individuos están realizando investigaciones en SEO.
+Si te interesa el SEO o la adquisición de tráfico, puedes unirte a mi grupo de Telegram [web_cpc](https://t.me/web_cpc).
+Por supuesto, también puedes agregar mi cuenta de WeChat, para que te agregue al grupo de WeChat.
 
 ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
 <details>
-  <summary>SEO Resource Pack</summary>
-  
-  Join the Telegraph/WeChat group to receive this gift package.
-  
+  <summary>Paquete de recursos SEO</summary>
+
+  Únete al grupo de Telegram/WeChat para recibir este paquete de regalo.
+
   ![](https://img.bmpi.dev/4524f561-8feb-4fd3-852a-603dacc9b5c0.png)
 </details>
 
 <details>
-  <summary>Stargazers over time</summary>
+  <summary>Seguidores a lo largo del tiempo</summary>
 
-  [![Stargazers over time](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
+  [![Seguidores a lo largo del tiempo](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
 </details>
 
 ---
 
-## Basic Concept
+## Concepto básico
 
-![What is SEO](https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png)
+![Qué es SEO](https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png)
 
-## Tutorials
+## Tutoriales
 
-[Google Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
-> Webmaster Guidelines, must-read for SEO.
+[Pautas para webmasters de Google](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
+> Pautas para webmasters, lectura obligada para SEO.
 
-[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-> SEO beginners tutorial on the Moz web, helps you learn SEO systematically.
+[Guía para principiantes de SEO](https://moz.com/beginners-guide-to-seo)
+> Tutorial de SEO para principiantes en la web de Moz, te ayuda a aprender SEO sistemáticamente.
 
 [The Authority Site System 3.0](https://www.authorityhacker.com/system/)
-> This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only a part of it, it also includes Affiliates, Paid-advertising etc. (The course is pretty expensive, and I haven't started it yet)
+> Este curso trata sobre cómo construir un sitio web de autoridad (sitio de nicho) desde cero y ganar dinero con él. El SEO es solo una parte, también incluye afiliados, publicidad paga, etc. (El curso es bastante caro y aún no lo he comenzado)
 
 
-## Books
+## Libros
 
-[The Art of SEO](https://book.douban.com/subject/3780812/)
-> In this book, four of the most noted experts in the field of search engine optimization (SEO) provide you with proven guidelines and cutting-edge techniques. The third edition was written in 2015, so if you only want to read one book about SEO, this book is the best option.
+[El arte del SEO](https://book.douban.com/subject/3780812/)
+> En este libro, cuatro de los expertos más reconocidos en el campo de la optimización de motores de búsqueda (SEO) te brindan pautas probadas y técnicas de vanguardia. La tercera edición se escribió en 2015, por lo que si solo quieres leer un libro sobre SEO, este es la mejor opción.
 
-[这就是搜索引擎](https://book.douban.com/subject/7006719/)(Chinese Book)
-> This book is about the internal technology of popular science search engines. Although Using SEO does not need to understand the internal implementation of search engines, for some technical optimization, understanding the characteristics of some search engines will help you optimize your website from a macro perspective.
+[这就是搜索引擎](https://book.douban.com/subject/7006719/)(Libro en chino)
+> Este libro trata sobre la tecnología interna de los motores de búsqueda de divulgación científica. Aunque el uso de SEO no necesita comprender la implementación interna de los motores de búsqueda, para algunas optimizaciones técnicas, comprender las características de algunos motores de búsqueda te ayudará a optimizar tu sitio web desde una perspectiva macro.
 
-## Article/Video
+## Artículos/Videos
 
-[How Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-> The videos about popular science search engine that Google published.
+[Cómo funciona la búsqueda](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+> Los videos sobre el motor de búsqueda de divulgación científica que publicó Google.
 
-[12 SEO Best Practices That Everyone Should Follow](https://ahrefs.com/blog/seo-best-practices/)
-> SEO best practices that Ahrefs write.
+[12 mejores prácticas de SEO que todos deberían seguir](https://ahrefs.com/blog/seo-best-practices/)
+> Mejores prácticas de SEO escritas por Ahrefs.
 
-[17 Actionable Content Marketing Tips For More Traffic](https://backlinko.com/content-marketing-tips)
-> The content marketing is one of important directions in SEO. The article content mainly involves content marketing suggestions, and it written by Brian Dean who research backlink.
+[17 consejos prácticos de marketing de contenido para obtener más tráfico](https://backlinko.com/content-marketing-tips)
+> El marketing de contenido es una de las direcciones importantes en SEO. El contenido del artículo incluye principalmente sugerencias de marketing de contenido, y está escrito por Brian Dean, quien investiga backlinks.
 
-[Here’s What We Learned About SEO](https://backlinko.com/search-engine-ranking)
-> The article studies the factors influencing search engine rankings through large amounts of data analysis.
+[Esto es lo que aprendimos sobre SEO](https://backlinko.com/search-engine-ranking)
+> El artículo estudia los factores que influyen en las clasificaciones de los motores de búsqueda a través de grandes cantidades de análisis de datos.
 
-[What Is SEO Writing? How to Be a Better SEO Writer](https://ahrefs.com/blog/seo-writing/)
-> The article mainly introduce the writing framework of SEO, and suggestions about how to be a better SEO write.
+[¿Qué es la redacción SEO? Cómo ser un mejor escritor SEO](https://ahrefs.com/blog/seo-writing/)
+> El artículo presenta principalmente el marco de escritura de SEO y sugerencias sobre cómo ser un mejor escritor de SEO.
 
-[The Authority Site Business Model](https://www.authorityhacker.com/what-is-an-authority-site/)
-> The article introduce the whole process that an authority site from construction to profitability.
+[El modelo de negocio del sitio web de autoridad](https://www.authorityhacker.com/what-is-an-authority-site/)
+> El artículo presenta todo el proceso de un sitio web de autoridad desde la construcción hasta la rentabilidad.
 
-[零成本搭建SEO友好型博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)(Chinese Blogs)
+[零成本搭建SEO友好型博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)(Blogs en chino)
 
-> This is a series of blogs that introduces how to build a SEO from scratch. These blogs content covered blog building, SEO optimization, subcribe and push, website loading speed optimization.
+> Esta es una serie de blogs que presentan cómo construir un SEO desde cero. El contenido de estos blogs abarca la creación de blogs, la optimización de SEO, la suscripción y el envío, la optimización de la velocidad de carga del sitio web.
 
-[Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
-> This article detail explains how to analyse website access logs to identify problems in SEO. Google Analytics can help us understand user access, and system logs can help us better understand crawler requests, website techical SEO issues such as 301 redirects and so on.
+[Análisis de archivos de registro para SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
+> Este artículo explica detalladamente cómo analizar los registros de acceso al sitio web para identificar problemas en SEO. Google Analytics puede ayudarnos a comprender el acceso del usuario, y los registros del sistema pueden ayudarnos a comprender mejor las solicitudes de rastreo, los problemas técnicos de SEO del sitio web, como las redirecciones 301, etc.
 
 ### Google Ads
 
-[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
-> Last updated: October 5, 2020. 
-> It can help to learn about the money-sucking power of each industry.
+[Puntos de referencia de Google Ads para TU industria](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+> Última actualización: 5 de octubre de 2020.
+> Puede ayudar a aprender sobre el poder de absorción de dinero de cada industria.
 
-[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)(Chinese Website)
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)(Sitio web en chino)
 
-> For knowing what's hot on the web and avoiding Red Sea competition.
+> Para saber qué está de moda en la web y evitar la competencia en el Mar Rojo.
 
-## Tools
+## Herramientas
 
 [ahrefs](https://ahrefs.com/)
-> SEO conprehensive analysis tool. 
+> Herramienta de análisis integral de SEO.
 
 [semrush](https://www.semrush.com/)
-> SEO conprehensive analysis tool. 
+> Herramienta de análisis integral de SEO.
 
 [webpagetest](https://www.webpagetest.org/)
-> Website speed measurement tool, essential for technical SEO optimization.
+> Herramienta de medición de velocidad del sitio web, esencial para la optimización técnica de SEO.
 
 [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/)
-> Website speed measurement tool, essential for technical SEO optimization.
+> Herramienta de medición de velocidad del sitio web, esencial para la optimización técnica de SEO.
 
 [majestic](https://majestic.com/)
-> Website Backlink Analysis Plugins. 
+> Complementos de análisis de backlinks del sitio web.
 
 [moz](https://moz.com/)
-> Open Site Explorer/MozBar Plugins. 
+> Complementos Open Site Explorer/MozBar.
 
 [linkresearchtools](https://smart.linkresearchtools.com/seo-tools/free-seo-tools/)
-> Free SEO Tools. 
+> Herramientas SEO gratuitas.
 
 [raventools](https://raventools.com/)
-> A comprehensive toolbox for link building. 
+> Un conjunto de herramientas completo para la creación de enlaces.
 
 [authoritylabs](https://www.authoritylabs.com/)
-> Track search engine rankings / Solve the problem of GA that keywords not provided.
+> Rastrea las clasificaciones de los motores de búsqueda / Resuelve el problema de GA de que las palabras clave no se proporcionan.
 
 [alexa](https://www.alexa.com/)
-> View website traffic.  The data comes from the Alexa toolbar installed on the user's system, or it may be obtained from the ISP manufacturer.
+> Ver tráfico del sitio web. Los datos provienen de la barra de herramientas de Alexa instalada en el sistema del usuario, o pueden obtenerse del fabricante del ISP.
 
 [quantcast](https://www.quantcast.com/)
 
-> Website Traffic View Tools. 
+> Herramientas de visualización de tráfico del sitio web.
 
 [seoquake](https://www.seoquake.com/index.html)
-> SEO Chrome Plugin that published by semrush. 
+> Complemento de Chrome SEO publicado por semrush.
 
 [spyfu](https://www.spyfu.com/)
 
-## Chrome Plugins
+
+## Complementos de Chrome
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-> The plugin to check the PV traffic of website. But the results are sometimes accurate and sometimes biased.
+> El complemento para verificar el tráfico PV del sitio web. Pero los resultados a veces son precisos y a veces están sesgados.
 
 [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc)
-> Check the SEO-related information of the website, such as the number of external links, the number of indexes, and SEO Internal website issues, etc.
+> Verifica la información relacionada con SEO del sitio web, como la cantidad de enlaces externos, la cantidad de índices y los problemas internos del sitio web de SEO, etc.
 
 [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca)
-> This is a keyword tool to view monthly search volume for a number of keywords. 
-> Of course, you also can use Keyword Planner of Google Ads to view monthly search volume for a number of keywords. 
+> Esta es una herramienta de palabras clave para ver el volumen de búsqueda mensual de varias palabras clave.
+> Por supuesto, también puedes usar el Planificador de palabras clave de Google Ads para ver el volumen de búsqueda mensual de varias palabras clave.
 
 [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi)
-> The view tool for common internal issues of website.
+> La herramienta de visualización para problemas internos comunes del sitio web.
 
 [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
-> The view tool for meta data of website.
+> La herramienta de visualización para metadatos del sitio web.
 
-## Blog/Twitter
 
-[SEO Twitter List](https://twitter.com/i/lists/1341048200677842950)
-> The list mainly show SEO masters Twitter.
+## Blogs/Twitter
+
+[Lista de Twitter de SEO](https://twitter.com/i/lists/1341048200677842950)
+> La lista muestra principalmente los tuits de los maestros de SEO.
 
 [backlinko](https://backlinko.com/)
-> Brian Dean’s Blog (He has some achievements in backlink research.)
+> Blog de Brian Dean (tiene algunos logros en la investigación de backlinks).
 
-[Google Search Central Blog](https://developers.google.com/search/blog)
-> Published by Google.
+[Blog de Google Search Central](https://developers.google.com/search/blog)
+> Publicado por Google.
 
-[ahrefs blog](https://ahrefs.com/blog/)
-> High-quality blogs about SEO that published by ahrefs. 
+[blog de ahrefs](https://ahrefs.com/blog/)
+> Blogs de alta calidad sobre SEO publicados por ahrefs.
 
 [moz](https://moz.com/blog)
-> High-quality blogs about SEO that published by moz. 
+> Blogs de alta calidad sobre SEO publicados por moz.
 
-[英文SEO实战派](https://www.seoactionblog.com/)(Chinese Blog)
-> Author: John. He has amount of research on Google Authority Site.
+[英文SEO实战派](https://www.seoactionblog.com/)(Blog en chino)
+> Autor: John. Tiene una gran cantidad de investigaciones sobre Google Authority Site.
 
-[富裕者联盟](https://www.fuyuzhe.com/)(Chinese Blog)
-> The author is Affiliate master, It can help you learn some online earning techniques.
+[富裕者联盟](https://www.fuyuzhe.com/)(Blog en chino)
+> El autor es un maestro de afiliados, puede ayudarte a aprender algunas técnicas de ganancias en línea.
 
-[Harris](https://www.yesharris.com/learning-seo-menu/)(Chinese Blog)
-> About SEO Timeliness.
+[Harris](https://www.yesharris.com/learning-seo-menu/)(Blog en chino)
+> Sobre la puntualidad del SEO.
 
-[SEO前线](http://seoqx.com/)(Chinese Blog)
-> Author: noname. He main research Baidu SEO.
+[SEO前线](http://seoqx.com/)(Blog en chino)
+> Autor: anónimo. Investiga principalmente SEO de Baidu.
 
-[Other](https://ahrefs.com/blog/seo-blogs/)
-> Collected by ahrefs.
+[Otros](https://ahrefs.com/blog/seo-blogs/)
+> Recopilado por ahrefs.
 
-## Community
+## Comunidad
 
 [Reddit SEO](https://www.reddit.com/r/SEO/hot/)
 
@@ -214,23 +216,23 @@ Of course, you can also add my WeChat account, so that I will add you into WeCha
 
 [Warrior Forum](https://www.warriorforum.com/)
 
-> If you want to recommend other good communities, please commit PR.
+> Si deseas recomendar otras buenas comunidades, envía un PR.
 
-## Traffic Monetization
+## Monetización del tráfico
 
-When there is a certain amount of SEO traffic(such as monthly PV reaching 10,000), how to monetize SEO traffic becomes a more important topic. Gernerally speaking, we can integrate [Internet Advertising](https://www.bmpi.dev/dev/what-is-internet-advertising/) through advertising platforms such as Google Adsense.
-This CPM/CPC is generally not high. The Advertising CPM/CPC depends on the content/region of website. The CPM/CPC range of different content ads is between $0.3-$2.0/$0.2-$15.
+Cuando hay una cierta cantidad de tráfico SEO (como PV mensuales que alcanzan los 10,000), la forma de monetizar el tráfico SEO se convierte en un tema más importante. En general, podemos integrar [Publicidad en Internet](https://www.bmpi.dev/dev/what-is-internet-advertising/) a través de plataformas publicitarias como Google Adsense.
+Este CPM/CPC generalmente no es alto. El CPM/CPC de la publicidad depende del contenido/región del sitio web. El rango de CPM/CPC de diferentes anuncios de contenido está entre $0.3-$2.0/$0.2-$15.
 
 ![](https://img.bmpi.dev/91bc8569-0fdc-ea98-478e-33d63205f340.png)
 
-The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/420.html). In addition to advertising, the website can also access Affiliate and sell products(members, courses) to increase RPM.
+El propósito del sitio de tráfico es mejorar [RPM](https://tg.bmpi.dev/web_cpc/420.html). Además de la publicidad, el sitio web también puede acceder a Afiliados y vender productos (miembros, cursos) para aumentar el RPM.
 
-## Other
+## Otros
 
-[Google Algorithm Update History](https://moz.com/google-algorithm-change)
-> Currently, Google has some of more important Google algorithms including the Panda algorithm, the Penguin algorithm, and the Hummingbird algorithm.
-> This is the page that Moz tracks updates to Google's search algorithm.
+[Historial de actualizaciones del algoritmo de Google](https://moz.com/google-algorithm-change)
+> Actualmente, Google tiene algunos de los algoritmos de Google más importantes, incluidos el algoritmo Panda, el algoritmo Penguin y el algoritmo Hummingbird.
+> Esta es la página que Moz rastrea las actualizaciones del algoritmo de búsqueda de Google.
 
-[State of the Web](https://httparchive.org/reports/state-of-the-web)
-> Some reports on important statistics related to HTTP on the Internet, published by httparchive. 
+[Estado de la web](https://httparchive.org/reports/state-of-the-web)
+> Algunos informes sobre estadísticas importantes relacionadas con HTTP en Internet, publicados por httparchive.
 
